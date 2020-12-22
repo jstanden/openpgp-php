@@ -46,6 +46,7 @@ Users
 OpenPGP.php is currently being used in the following projects:
 
 * <https://wordpress.org/plugins/wp-pgp-encrypted-emails/>
+* <https://cerb.ai/>
 
 Download
 --------
